@@ -1,0 +1,11 @@
+F:\Users\MADDY\source\repos\ApplicationLayer\BussinessLayer\bin\Debug\BussinessLayer.dll
+F:\Users\MADDY\source\repos\ApplicationLayer\BussinessLayer\bin\Debug\BussinessLayer.pdb
+F:\Users\MADDY\source\repos\ApplicationLayer\BussinessLayer\bin\Debug\DataLayer.dll
+F:\Users\MADDY\source\repos\ApplicationLayer\BussinessLayer\bin\Debug\DataLayer.pdb
+F:\Users\MADDY\source\repos\ApplicationLayer\BussinessLayer\obj\Debug\BussinessLayer.csprojAssemblyReference.cache
+F:\Users\MADDY\source\repos\ApplicationLayer\BussinessLayer\obj\Debug\BussinessLayer.csproj.CoreCompileInputs.cache
+F:\Users\MADDY\source\repos\ApplicationLayer\BussinessLayer\obj\Debug\BussinessLayer.csproj.CopyComplete
+F:\Users\MADDY\source\repos\ApplicationLayer\BussinessLayer\obj\Debug\BussinessLayer.dll
+F:\Users\MADDY\source\repos\ApplicationLayer\BussinessLayer\obj\Debug\BussinessLayer.pdb
+F:\Users\MADDY\source\repos\ApplicationLayer\BussinessLayer\bin\Debug\Database1.mdf
+F:\Users\MADDY\source\repos\ApplicationLayer\BussinessLayer\bin\Debug\Database1_log.ldf
